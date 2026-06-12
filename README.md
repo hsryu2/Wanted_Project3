@@ -2,6 +2,10 @@
 
 ![Gameplay](Asset/GamePlayimg.gif)
 
+## 시연 영상
+[시연 영상 링크](https://www.youtube.com/watch?v=8vEVvKcFGWY)
+
+
 ## 프로젝트 소개
 
 FPS 전투의 조작감과 로그라이트의 성장 및 선택 요소를 결합한 개인 프로젝트입니다.
